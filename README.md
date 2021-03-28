@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @mendesdocrl or just mendes
-- 👀 I’m interested in programming languages, ethical hacking and SE.
-- 📚 I'm learning programming languages.
-- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: mendes#6203 
 
 <!---
