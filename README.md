@@ -1,4 +1,4 @@
-- 📫 How to reach me: u/mendes#1677
+- 📫 How to reach me: mendes#1677
 - u/mendesrx
 - Learning C++
 
