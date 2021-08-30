@@ -1,5 +1,5 @@
-- 📫 How to reach me: mendes#1677
-- u/mendesrx
+- mendes#1677 / discord
+- u/mendesrx / reddit
 - Learning C++
 
 
