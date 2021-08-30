@@ -1,6 +1,6 @@
 - 📫 How to reach me: u/mendes#1677
 - u/mendesrx
-- learning C##
+- Learning C++
 
 
 <!---
