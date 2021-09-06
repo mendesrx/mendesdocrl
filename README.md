@@ -1,5 +1,5 @@
 - mendes#1677 / discord
-- Learning CSS
+- Learning Wen Development
 - SV DC: https://discord.gg/DPNhXStRWH
 
 
