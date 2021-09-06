@@ -1,6 +1,6 @@
 - mendes#1677 / discord
-- u/mendesrx / reddit
-- Learning C++
+- Learning CSS
+- SV DC: https://discord.gg/DPNhXStRWH
 
 
 <!---
